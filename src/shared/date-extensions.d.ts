@@ -1,0 +1,3 @@
+interface Date {
+    getDateFormatMDY() : string;
+}
